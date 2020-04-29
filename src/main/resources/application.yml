@@ -1,0 +1,13 @@
+aliyun-oss:
+  bucketName: test
+  region: oss-cn-***
+  endpoint: oss-cn-***.aliyuncs.com
+  host: https://test.oss-cn-***.aliyuncs.com
+  accessKeyId: ***
+  accessKeySecret: ***
+  callbackUrl: http://****/oss/callback
+  dirPrefix: test/
+
+
+
+
